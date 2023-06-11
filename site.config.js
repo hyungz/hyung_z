@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "hyung_z",
-    image: ".\public\FpPNCxD.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "public/FpPNCxD.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "K-Pop Music Video Collector",
     bio: "I collect K-Pop Music Videos",
     email: "hyung_z@mirbudsdrive.com",
