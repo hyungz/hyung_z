@@ -12,7 +12,11 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `test project name`,
+      name: `Discord: 권나연#2449`,
+      href: "https://google.com.ph",
+    },
+    {
+      name: `E-mail: hyung_z@mirbudsdrive.com`,
       href: "https://google.com.ph",
     },
   ],
