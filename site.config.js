@@ -13,11 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `Discord: 권나연#2449`,
-      href: "https://google.com.ph",
-    },
-    {
-      name: `E-mail: hyung_z@mirbudsdrive.com`,
-      href: "https://google.com.ph",
+      href: "https://discordapp.com/users/%EA%B6%8C%EB%82%98%EC%97%B0#2449",
     },
   ],
   // blog setting (required)
