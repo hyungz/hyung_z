@@ -12,7 +12,7 @@ type Props = {
 const PostHeader: React.FC<Props> = ({ data }) => {
   return (
     <>
-      <h1 className="font-bold text-3xl text-black dark:text-white">
+      <h1 className="font-bold text-1xl text-black dark:text-white">
         {data.title}
       </h1>
       {data.type[0] !== "Paper" && (
