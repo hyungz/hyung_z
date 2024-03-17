@@ -14,6 +14,8 @@ const CONFIG = {
     {
       name: `Discord: nana_kwon`,
       href: "https://discordapp.com/users/%EA%B6%8C%EB%82%98%EC%97%B0#2449",
+      name: `Instagram: @05_betterlee`,
+      href: "https://www.instagram.com/05_betterlee",
     },
   ],
   // blog setting (required)
